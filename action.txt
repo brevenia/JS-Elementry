@@ -1,2 +1,2 @@
-<h1>Form Submitted Successfully<h1>
+Form Submitted Successfully
 You will learn more about this in PHP Elementry
